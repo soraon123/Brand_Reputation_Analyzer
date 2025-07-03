@@ -1,0 +1,11 @@
+streamlit
+requests
+pandas
+textblob
+plotly
+wordcloud
+matplotlib
+python-dotenv
+groq
+reportlab
+praw
