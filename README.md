@@ -1,8 +1,3 @@
-Here’s a **minimalist version** of your `README.md` for the **Brand Reputation Dashboard** project:
-
----
-
-```markdown
 # Brand Reputation Dashboard
 
 A simple dashboard to analyze public sentiment about a brand using text data.
@@ -48,8 +43,3 @@ This project uses:
 - PR professionals  
 - Business analysts
 
-```
-
----
-
-Let me know if you’d like a one-slide summary version or a version to submit in a report/document.
